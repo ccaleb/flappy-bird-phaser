@@ -5,7 +5,7 @@ A Flappy Bird clone written with the Phaser.io HTML game engine and JavaScript E
 ## Workspace Setup
 Setup the project's workspace by walking through the following steps.
 #### 1. Install Node.js.
-If you already have Node.js already installed then ensure it has been updated to the latest version:
+If you already have Node.js installed then ensure it has been updated to the latest version:
 ```
 sudo npm cache clean -f
 sudo npm install -g n
