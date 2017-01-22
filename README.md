@@ -2,6 +2,8 @@
 
 A Flappy Bird clone written with the Phaser.io HTML game engine and JavaScript ES6. Babel is used to transpile the ES6 code to JavaScript ES5 for full browser compatability.
 
+You can play a build of the game at: [www.yeahbutisitflash.com/projects/flappy-bird-phaser](http://www.yeahbutisitflash.com/projects/flappy-bird-phaser/).
+
 ## Workspace Setup
 Setup the project's workspace by walking through the following steps.
 #### 1. Install Node.js.
