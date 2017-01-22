@@ -1,0 +1,12 @@
+# nodejus npm modules
+/node_modules
+
+# bower components
+/bower_components
+
+# Build files
+/output/*
+
+# Minified output
+/src/scripts
+

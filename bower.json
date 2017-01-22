@@ -1,0 +1,21 @@
+{
+  "name": "phaser-basic-setup",
+  "description": "Phaser basic setup.",
+  "main": "index.js",
+  "authors": [
+    "Christopher Caleb"
+  ],
+  "license": "ISC",
+  "homepage": "www.yeahbutisitflash.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "phaser-official#^2.6.2"
+  }
+}

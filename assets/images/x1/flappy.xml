@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flappy.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bird0000" x="0" y="0" width="32" height="23" pivotX="16.4" pivotY="7.85"/>
+	<SubTexture name="Bird0001" x="32" y="0" width="32" height="23"/>
+	<SubTexture name="Bird0002" x="64" y="0" width="32" height="23"/>
+	<SubTexture name="Bird0003" x="96" y="0" width="32" height="23"/>
+	<SubTexture name="Bird0004" x="0" y="23" width="32" height="23"/>
+	<SubTexture name="Bird0005" x="32" y="23" width="32" height="23"/>
+	<SubTexture name="Bird0006" x="64" y="23" width="32" height="23"/>
+	<SubTexture name="Bird0007" x="96" y="23" width="32" height="23"/>
+	<SubTexture name="Bird0008" x="0" y="46" width="32" height="23"/>
+	<SubTexture name="Bird0009" x="32" y="46" width="32" height="23"/>
+	<SubTexture name="Bird0010" x="64" y="46" width="32" height="23"/>
+	<SubTexture name="Bird0011" x="96" y="46" width="32" height="23"/>
+	<SubTexture name="Bird0012" x="0" y="69" width="32" height="23"/>
+	<SubTexture name="Bird0013" x="32" y="69" width="32" height="23"/>
+</TextureAtlas>
