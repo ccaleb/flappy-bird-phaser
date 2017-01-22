@@ -33,13 +33,6 @@ sudo npm install
 ```
 sudo bower install --allow-root
 ```
-## Build and Test on a Local Web Server
-Use the Grunt task runner to build and test the project on a [local web server (running on port 9001)](http://localhost:9001). Enter the following into the Terminal window:
-```
-cd flappy-bird-phaser/
-grunt build
-grunt connect
-```
 ## Develop, Build and Continuously Test on a Local Web Server
 To run a local web server and have Grunt watch your files for changes, enter the following into the Terminal window:
 ```
@@ -47,4 +40,12 @@ cd flappy-bird-phaser/
 grunt
 ```
 Any changes to your .js files will force the project to be re-built in the background allowing you to easily see your changes within the web browser as you develop.
+## Build for Upload to Web Server
+Use the Grunt task runner to build a minified version of the project. Enter the following into the Terminal window:
+```
+cd flappy-bird-phaser/
+grunt build
+```
+Then copy the contents of the `build` folder to your remote web server.
+
 
