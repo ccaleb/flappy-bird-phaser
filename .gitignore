@@ -8,5 +8,5 @@
 /build/*
 
 # Minified output
-/src/scripts
+/scripts/*
 
